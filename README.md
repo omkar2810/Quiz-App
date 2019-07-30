@@ -13,3 +13,4 @@ A web based quiz app written in ReactJS
  - Users can play a quiz of various genres, each quiz has different type of question.
  - Users can view the quiz leader board as well as the overall leader board.
  - Admin can add/delete a genre,a quiz, a question or a user. He/She can also view the list of users registered on the portal.
+ - Browser local storage has been use to implement sessions for a logged in user.
